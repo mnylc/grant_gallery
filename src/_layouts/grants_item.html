@@ -1,0 +1,43 @@
+---
+layout: item
+iiif: true
+viewer: leaflet
+pagination: true
+show_title: true
+---
+
+<center>
+  <div id="metadata-block">
+    <table class="table table-striped">
+      <tr class="meta">
+        <td class="label">Title: </td>
+        <td class="value">{{ page.title }}</td>
+      </tr>
+
+      <tr class="meta">
+        <td class="label">Grant type: </td>
+        <td class="value">{{ page.grant_year_type }}</td>
+      </tr>
+
+      <tr class="meta">
+        <td class="label">Institution: </td>
+        <td class="value"><a href="{{ page.institution_link }}">{{ page.institution_name }}</a></td>
+      </tr>
+
+      <tr class="meta">
+        <td class="label">Collection: </td>
+        <td class="value"><a href="{{ page.collection_link }}">{{ page.collection_name }}</a></td>
+      </tr>
+
+      <tr class="meta">
+        <td class="label">Description: </td>
+        <td class="value">{{ page.description }}</td>
+      </tr>
+
+      <tr class="meta">
+        <td class="label">Source: </td>
+        <td class="value"><a href="{{ page.source }}">Original</a></td>
+      </tr>
+    </table>
+  </div>
+</center>
