@@ -4,16 +4,16 @@ title: Exhibits
 permalink: /exhibits/
 inline_images:
   - pid: obj6
-    collection: qatar
+    collection: grants
     width: 200px
     height: 300px
-  - pid: obj10
-    collection: qatar
+  - pid: obj3
+    collection: grants
     width: 100px
     height: 150px
     float: right
   - pid: obj1
-    collection: qatar
+    collection: grants
     width: 600px
     height: 300px
 ---

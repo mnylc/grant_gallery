@@ -1,5 +1,5 @@
 # main settings
-title:            Minicomp/Wax
+title:            METRO/599 Grants
 description:      a jekyll theme for minimal exhibitions
 url:              '' # the url should stay empty
 baseurl:          '/wax' # the baseurl of your site must be defined but can be an empty ''
@@ -11,13 +11,13 @@ source:           src
 
 # wax collection settings
 collections:
-  qatar:
+  grants:
     output: true
-    source: qatar.csv
-    layout: qatar_item
+    source: grants.csv
+    layout: grants_item
     lunr_index:
       content: false
-      fields: [pid, title, artist, location, _date, object_type, current_location]
+      fields: [pid,grant_year_type,institution_name,collection_name,description,title]
     iiif:
       meta:
         label: title

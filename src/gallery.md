@@ -4,4 +4,4 @@ title: Gallery
 permalink: /gallery/
 ---
 
-{% include gallery.html facet_by='object_type' collection='qatar' %}
+{% include gallery.html facet_by='grant_year_type' collection='grants' %}
