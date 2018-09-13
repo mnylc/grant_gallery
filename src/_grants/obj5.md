@@ -20,7 +20,7 @@ description: The Gilded Age, witnessed large and valuable private collections di
   Art Association. 19,294 objects were digitized and 104 MARC records were created
   for the digital versions of the catalogs.
 title: Cover of the Bauer collection of Antique Chinese Art Treasures
-source: https://s3.amazonaws.com/omeka-net/6255/archive/files/ad6b4e27fcc419f255fb0a9c3a3fda6d.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1537364471&Signature=XH96mGpvd7UOJD26Q%2BTMSe0bmzs%3D
+source: https://gildedage3.omeka.net/
 permalink: "/grants/obj5/"
 layout: grants_item
 ---
