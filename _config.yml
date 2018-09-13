@@ -24,16 +24,6 @@ collections:
 
 # menu settings
 menu:
-  - label: About
-    sub:
-    - label: Wax
-      link: /about/
-    - label: Minicomp
-      link: /minicomp/
-    - label: Credits
-      link: /credits/
-  - label: Documentation
-    link: https://minicomp.github.io/wiki/#/wax/
   - label: Exhibits
     link: /exhibits/
   - label: Gallery
