@@ -3,7 +3,7 @@ layout: default
 title: About Wax
 permalink: /about/
 banner:
-  - collection: qatar
+  - collection: grants
     pid: obj5
     zoom: 0
     y: top
