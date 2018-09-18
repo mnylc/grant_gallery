@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/wax/iiif/grants/collection/top.json",
+  "@type": "sc:Collection",
+  "label": "top",
+  "manifests": [
+    {
+      "@id": "/wax/iiif/grants/obj1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Madame Roland de Challerange Bookplate"
+    },
+    {
+      "@id": "/wax/iiif/grants/obj2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "A Boy Playing the Trumpet in a Camp in Tehran"
+    },
+    {
+      "@id": "/wax/iiif/grants/obj3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Students studying in colonnade"
+    },
+    {
+      "@id": "/wax/iiif/grants/obj4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "A S. Luigi Gonzaga : inno per musica"
+    },
+    {
+      "@id": "/wax/iiif/grants/obj5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Cover of the Bauer collection of Antique Chinese Art Treasures"
+    },
+    {
+      "@id": "/wax/iiif/grants/obj6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Bulletin of the Brooklyn Institute of Arts and Sciences, Volume I, Number 1"
+    }
+  ]
+}
