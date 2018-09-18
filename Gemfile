@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '~> 3.8.3'
-
+gem 'github-pages'
 group :development, :test do
   gem 'rspec'
   gem 'selenium-webdriver', '3.12.0'
