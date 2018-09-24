@@ -23,8 +23,6 @@ collections:
 
 # menu settings
 menu:
-  - label: Exhibits
-    link: /exhibits/
   - label: Gallery
     link: /gallery/
 
