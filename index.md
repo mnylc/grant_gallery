@@ -35,9 +35,3 @@ This site runs on __Wax__, a [minimal computing](http://go-dh.github.io/mincomp/
 <br>
 
 {% include gallery.html facet_by='grant_year_type' collection='grants' %}
-
-<br><br>
-
-### Search the Collection
-
-{% include search.html %}
