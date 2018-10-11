@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wax.
+title: METRO/599 Grants
 banner:
 - collection: grants
   pid: obj6
