@@ -3,16 +3,14 @@ language: ruby
 addons:
   chrome: stable
 rvm:
-  - 2.4
+  - 2.4.0
 branches:
   except:
     - gh-pages
 before_script:
   - bundle exec rake wax:pagemaster grants
   - bundle exec rake wax:iiif grants
-  - bundle exec rake wax:lunr
 script:
-  - bundle exec jekyll build -d _site/wax
-  - bundle exec rake wax:test
+  - bundle exec jekyll build -d _site/grants
 after_success:
   - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push gh-pages; fi
