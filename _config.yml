@@ -1,6 +1,6 @@
 # main settings
 title:            METRO/599 Grants
-description:      a jekyll theme for minimal exhibitions
+description:      A site highlighting digitization projects funded by METRO
 url:              '' # the url should stay empty
 baseurl:          '/grants' # the baseurl of your site must be defined but can be an empty ''
 
