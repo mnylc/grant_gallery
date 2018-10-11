@@ -23,7 +23,13 @@ banner:
 
 {% include banner.html caption=true %}
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on impact, durability, ease, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+In January 2005, METRO launched its Digitization Grant Program as an effort to support digitization projects involving significant collections held by METRO member libraries in New York City and Westchester County. This initiative is supported in part by funds from the New York State Regional Bibliographic Databases Program.
+
+Since that time, METRO has awarded over $880,000 in grants to support 87 digital projects.
+
+Funding for digitization projects is distributed annually. For more information and to discuss potential projects and funding opportunities, please contact Anne Karle-Zenith, METRO’s Associate Director of Business Development, at [annekz@metro.org.](mailto:annekz@metro.org)
+
+This site runs on __Wax__, a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on impact, durability, ease, and flexibility. To start using Wax, please see the [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
 
 ### Browse the Collection
 <br>
