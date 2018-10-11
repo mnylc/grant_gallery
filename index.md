@@ -4,7 +4,7 @@ title: Wax.
 banner:
 - collection: grants
   pid: obj6
-  y: center
+  y: top
   x: left
   zoom: 1
 - collection: grants
@@ -14,7 +14,7 @@ banner:
 - collection: grants
   pid: obj2
   zoom: 1
-  y: center
+  y: top
   x: left
 - collection: grants
   pid: obj1
