@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "/wax/iiif/grants/images/obj6-1",
+  "@id": "/grants/iiif/grants/images/obj6-1",
   "protocol": "http://iiif.io/api/image",
   "width": 1415,
   "height": 1893,

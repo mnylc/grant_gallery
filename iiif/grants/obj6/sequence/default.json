@@ -1,32 +1,32 @@
 {
-  "@id": "/wax/iiif/grants/obj6/sequence/default.json",
+  "@id": "/grants/iiif/grants/obj6/sequence/default.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "/wax/iiif/grants/obj6/canvas/front.json",
+      "@id": "/grants/iiif/grants/obj6/canvas/front.json",
       "label": "front",
       "width": 1415,
       "height": 1893,
-      "thumbnail": "/wax/iiif/grants/images/obj6-1/full/250,/0/default.jpg",
+      "thumbnail": "/grants/iiif/grants/images/obj6-1/full/250,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
-          "@id": "/wax/iiif/grants/obj6/annotation/front.json",
+          "@id": "/grants/iiif/grants/obj6/annotation/front.json",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "/wax/iiif/grants/images/obj6-1/full/full/0/default.jpg",
+            "@id": "/grants/iiif/grants/images/obj6-1/full/full/0/default.jpg",
             "@type": "dcterms:Image",
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "/wax/iiif/grants/images/obj6-1",
+              "@id": "/grants/iiif/grants/images/obj6-1",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
             "width": 1415,
             "height": 1893
           },
-          "on": "/wax/iiif/grants/obj6/canvas/front.json"
+          "on": "/grants/iiif/grants/obj6/canvas/front.json"
         }
       ]
     }

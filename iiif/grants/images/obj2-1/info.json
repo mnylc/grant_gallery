@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "/wax/iiif/grants/images/obj2-1",
+  "@id": "/grants/iiif/grants/images/obj2-1",
   "protocol": "http://iiif.io/api/image",
-  "width": 2739,
-  "height": 3849,
+  "width": 569,
+  "height": 800,
   "sizes": [
     {
-      "width": 2739,
-      "height": 3849
+      "width": 569,
+      "height": 800
     },
     {
       "width": 250,
@@ -15,11 +15,11 @@
     },
     {
       "width": 600,
-      "height": 843
+      "height": 844
     },
     {
       "width": 1140,
-      "height": 1602
+      "height": 1603
     }
   ],
   "profile": [

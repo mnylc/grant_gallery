@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "/wax/iiif/grants/obj4/annotation/front.json",
+  "@id": "/grants/iiif/grants/obj4/annotation/front.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "/wax/iiif/grants/images/obj4-1/full/full/0/default.jpg",
+    "@id": "/grants/iiif/grants/images/obj4-1/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "/wax/iiif/grants/images/obj4-1",
+      "@id": "/grants/iiif/grants/images/obj4-1",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 730,
     "height": 505
   },
-  "on": "/wax/iiif/grants/obj4/canvas/front.json",
+  "on": "/grants/iiif/grants/obj4/canvas/front.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }
