@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "/grants/iiif/projects/obj12/canvas/front.json",
+  "label": "front",
+  "width": 842,
+  "height": 1352,
+  "thumbnail": "/grants/iiif/projects/images/obj12-1/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "/grants/iiif/projects/obj12/annotation/front.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "/grants/iiif/projects/images/obj12-1/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "/grants/iiif/projects/images/obj12-1",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 421,
+        "height": 676
+      },
+      "on": "/grants/iiif/projects/obj12/canvas/front.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/grants/iiif/projects/collection/top.json",
+  "@type": "sc:Collection",
+  "label": "top",
+  "manifests": [
+    {
+      "@id": "/grants/iiif/projects/obj1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj1"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj10"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj11"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj12"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj2"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj3"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj4"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj5"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj6"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj7"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj8"
+    },
+    {
+      "@id": "/grants/iiif/projects/obj9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj9"
+    }
+  ]
+}

@@ -10,10 +10,10 @@ exclude:          [Gemfile*, Rakefile, vendor, spec, README.md]
 
 # wax collection settings
 collections:
-  grants:
+  projects:
     output: true
-    source: grants.csv
-    layout: grants_item
+    source: projects.csv
+    layout: projects_item
     lunr_index:
       content: false
       fields: [pid,grant_year_type,institution_name,collection_name,description,title]
@@ -25,15 +25,6 @@ collections:
 menu:
   - label: Gallery
     link: /gallery/
-
-# search tests. run with $ bundle exec rspec
-quoll:
-  main:
-    page: '/' # the path of the page you want to test
-    terms:  # the search terms you expect to yield results
-      - iran
-      - map
-      - manuscript
 
 # javascript dependencies
 js:

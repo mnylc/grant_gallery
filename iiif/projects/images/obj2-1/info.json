@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "/grants/iiif/projects/images/obj2-1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 569,
+  "height": 800,
+  "sizes": [
+    {
+      "width": 569,
+      "height": 800
+    },
+    {
+      "width": 250,
+      "height": 351
+    },
+    {
+      "width": 600,
+      "height": 844
+    },
+    {
+      "width": 1140,
+      "height": 1603
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

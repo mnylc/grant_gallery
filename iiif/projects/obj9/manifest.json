@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "/grants/iiif/projects/obj9/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "obj9",
+  "thumbnail": "/grants/iiif/projects/images/obj9-1/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "/grants/iiif/projects/obj9/sequence/default.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "/grants/iiif/projects/obj9/canvas/front.json",
+          "label": "front",
+          "width": 646,
+          "height": 846,
+          "thumbnail": "/grants/iiif/projects/images/obj9-1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "/grants/iiif/projects/obj9/annotation/front.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "/grants/iiif/projects/images/obj9-1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "/grants/iiif/projects/images/obj9-1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 323,
+                "height": 423
+              },
+              "on": "/grants/iiif/projects/obj9/canvas/front.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,8 @@
 
 {% if layout.pagination %}
 
-  {% assign documents = site[page.collection] | sort: 'order' %}
-  {% assign first = documents.first %}
+  {% assign documents = site[ page.collection ] | sort: 'order' %}
+{% assign first = documents.first %}
   {% assign last = documents.last %}
 
   {% for doc in documents %}

@@ -2,21 +2,21 @@
 layout: default
 title: METRO/599 Grants
 banner:
-- collection: grants
+- collection: projects
   pid: obj6
   y: top
   x: left
   zoom: 1
-- collection: grants
+- collection: projects
   pid: obj3
   zoom: 1
   x: right
-- collection: grants
+- collection: projects
   pid: obj2
   zoom: 1
   y: top
   x: left
-- collection: grants
+- collection: projects
   pid: obj1
   zoom: 1
 ---
@@ -34,4 +34,4 @@ This site runs on __Wax__, a [minimal computing](http://go-dh.github.io/mincomp/
 ### Browse the Collection
 <br>
 
-{% include gallery.html facet_by='grant_year_type' collection='grants' %}
+{% include gallery.html facet_by='grant_year_type' collection='projects' %}
