@@ -8,9 +8,9 @@ branches:
   except:
     - gh-pages
 before_script:
-  - bundle exec rake wax:pagemaster grants
-  - bundle exec rake wax:iiif grants
+  - bundle exec rake wax:pagemaster projects
+  - bundle exec rake wax:iiif projects
 script:
-  - bundle exec jekyll build -d _site/grants
+  - bundle exec jekyll build -d _site/projects
 after_success:
   - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push gh-pages; fi
