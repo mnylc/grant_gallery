@@ -3,8 +3,8 @@ pid: obj8
 grant_year_type: 2016 Digital Conversion Microgrant
 institution_name: Fordham University Libraries
 institution_link: https://www.fordham.edu/info/27156/libraries
-collection_name: Selections from Special Collections
-collection_link: https://archive.org/details/specialcollections
+coll_name: Selections from Special Collections
+coll_link: https://archive.org/details/specialcollections
 description: 'This collection comprises 78 volumes from Fordham Library Special Collections,
   grouped into three broad categories. 1) Early Fordham publications: documenting
   the history of Fordham University and Catholic New York during the 19th and early

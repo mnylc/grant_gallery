@@ -3,8 +3,8 @@ pid: obj1
 grant_year_type: 2016 Digitization Project Grant
 institution_name: The Grolier Club
 institution_link: http://www.grolierclub.org/
-collection_name: Maria Gerard Messenger Women’s Bookplate Collection
-collection_link: http://dcmny.org/islandora/object/gc%3Amgmbookplates
+coll_name: Maria Gerard Messenger Women’s Bookplate Collection
+coll_link: http://dcmny.org/islandora/object/gc%3Amgmbookplates
 description: Collection of over 2000 women’s bookplates and book labels assembled
   by Maria Gerard Messenger (1849-1937) of Great Neck, Long Island. The collection
   represents women book owners from the sixteenth century to the 1930s, and includes

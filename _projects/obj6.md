@@ -3,8 +3,8 @@ pid: obj6
 grant_year_type: 2014 Collaborative Digitization Grant
 institution_name: Brooklyn Academy of Music
 institution_link: https://www.bam.org/
-collection_name: Brooklyn Institute of Arts & Sciences Periodicals
-collection_link: http://levyarchive.bam.org/Detail/collections/9963
+coll_name: Brooklyn Institute of Arts & Sciences Periodicals
+coll_link: http://levyarchive.bam.org/Detail/collections/9963
 description: The Brooklyn Institute of Arts and Sciences Bulletins Collection is comprised
   of promotional materials (known as Bulletins or Monthly Magazines of Brooklyn Institute
   of Arts and Sciences). These periodicals contain listings of upcoming performances,

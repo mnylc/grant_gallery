@@ -3,8 +3,8 @@ pid: obj2
 grant_year_type: 2016 Digitization Project Grant
 institution_name: Pilsudski Institute of America
 institution_link: http://www.pilsudski.org/en/
-collection_name: Photographs of Polish Soldiers and Civilians During WWII (1939-1945)
-collection_link: http://dcmny.org/islandora/object/pilsudski%3Awwii
+coll_name: Photographs of Polish Soldiers and Civilians During WWII (1939-1945)
+coll_link: http://dcmny.org/islandora/object/pilsudski%3Awwii
 description: 'Collection of over 1000 photographs of Polish Armed Forces in the West,
   including organized military formations, established in the autumn of 1939 outside
   of Poland, on the basis of inter-allied agreements signed with France and the United

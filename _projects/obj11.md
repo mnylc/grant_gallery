@@ -3,9 +3,9 @@ pid: obj11
 grant_year_type: 2015 Digitization Project Grant
 institution_name: Baruch College CUNY
 institution_link: http://www.baruch.cuny.edu/library/
-collection_name: Institute of Public Administration Collection Printed Materials and
-  Reports, 1907-1959
-collection_link: http://dcmny.org/islandora/object/baruch%3Areports
+coll_name: Institute of Public Administration Collection Printed Materials and Reports,
+  1907-1959
+coll_link: http://dcmny.org/islandora/object/baruch%3Areports
 description: 'A unique colleciton of reports from the Institute of Public Administration
   on the origins of reform government in the US. The organization was created and
   financed in the early twentieth centurey by wealthy reform-minded New Yorkers, including

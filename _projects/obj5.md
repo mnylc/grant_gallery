@@ -3,10 +3,10 @@ pid: obj5
 grant_year_type: 2012 Digitization Project Grant
 institution_name: Frick Art Reference Library
 institution_link: https://www.frick.org/research/library
-collection_name: 'Gilding the Gilded Age: Interior Decoration Tastes and Trends in
-  New York City as Documented by a Collection of Auction Catalogs in Frick and Hearst
-  Library Collections'
-collection_link: https://gildedage3.omeka.net/
+coll_name: 'Gilding the Gilded Age: Interior Decoration Tastes and Trends in New York
+  City as Documented by a Collection of Auction Catalogs in Frick and Hearst Library
+  Collections'
+coll_link: https://gildedage3.omeka.net/
 description: The Gilded Age, witnessed large and valuable private collections disposed
   of at auction. New York City played an important role in this burgeoning market.
   Auction catalogs from these sales provide a wealth of information about the world

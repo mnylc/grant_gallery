@@ -3,8 +3,8 @@ pid: obj3
 grant_year_type: 2016 Culture In Transit Project
 institution_name: Bronx Community College
 institution_link: http://bcc-cuny.libguides.com/archives
-collection_name: Hall of Fame for Great Americans Collection
-collection_link: http://dcmny.org/content/bronx-community-college-hall-fame-collection
+coll_name: Hall of Fame for Great Americans Collection
+coll_link: http://dcmny.org/content/bronx-community-college-hall-fame-collection
 description: The Hall of Fame for Great Americans collection consists of 142 photographs
   and documents related to the selection, election, induction and media coverage of
   individuals represented in the Hall of Fame located at Bronx Community College (BCC).

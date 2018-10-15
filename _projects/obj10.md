@@ -3,8 +3,8 @@ pid: obj10
 grant_year_type: 2016 Digitization Project Grant
 institution_name: Icahn School of Medicine at Mount Sinai
 institution_link: https://icahn.mssm.edu/about/ait/archives/digital-collections
-collection_name: Annual Reports of St. Luke's and Roosevelt Hospitals
-collection_link: http://dspace.mssm.edu/handle/123456789/31007
+coll_name: Annual Reports of St. Luke's and Roosevelt Hospitals
+coll_link: http://dspace.mssm.edu/handle/123456789/31007
 description: 'This collection includes the Annual Reports for St. Luke''s Hospital
   (1859-1976) and the Roosevelt Hospital (1871-1978).  These two famous New York City
   medical institutions were both founded in the 19th century to serve the worthy poor

@@ -3,8 +3,8 @@ pid: obj12
 grant_year_type: 2015 Digitization Project Grant
 institution_name: Carnegie Hall Archives
 institution_link: https://collections.carnegiehall.org/
-collection_name: Carnegie Hall's Booking Ledger Collection
-collection_link: https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&VBID=2RRMLB9KIAZ7
+coll_name: Carnegie Hall's Booking Ledger Collection
+coll_link: https://collections.carnegiehall.org/CS.aspx?VP3=SearchResult&VBID=2RRMLB9KIAZ7
 description: Carnegie Hall booking ledgers that recorded every event that took place
   in the Hall’s three auditoriums and were used to schedule performances spanning
   1955-2007. These ledgers include rare documentation of the great artists and managers
